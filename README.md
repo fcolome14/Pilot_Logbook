@@ -32,4 +32,4 @@ The Logbook is divided in three spreadsheets: Register, Logbook and Statistics
 | SE | Single engine |
 | ME | Muliple engine |
 
-> NOTE: This project has been developed using the spanish pilot's flight logbook. Some acronyms may differ from other states.
+> NOTE: This project has been developed using the spanish pilot's flight logbook as reference. Some acronyms may differ from other states.
