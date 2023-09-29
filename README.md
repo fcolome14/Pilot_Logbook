@@ -8,6 +8,10 @@ Also the spreadsheet allows checking the flown hoursfor different scenarios and 
 
 The Logbook is divided in three spreadsheets: Register, Logbook and Statistics
 
+<div style="text-align:center;">
+  <img src="./documentation_images/Logbook.jpg" alt="./documentation_images/Logbook.jpg" />
+</div>
+
 - Register: Is the
 - Logbook: Is the logbook itself, where all the registers are stored ordered by date. A searching tool allows checking all the flight logs entered in a specific date.
 - Statistics: In this spreadsheet the pilot can check the total flight and simulation hours for different categories.
