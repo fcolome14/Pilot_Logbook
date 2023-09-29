@@ -9,14 +9,15 @@ Also the spreadsheet allows checking the flown hoursfor different scenarios and 
 The Logbook is divided in three spreadsheets: Register, Logbook and Statistics
 
 <div style="text-align:center;">
-  <img src="./documentation_images/Logbook.jpg" alt="./documentation_images/Logbook.jpg" />
+  <img src="./documentation_images/Register.jpg" alt="./documentation_images/Register.jpg" />
 </div>
 
-- Register: Is the
+- Register: Input data form
 - Logbook: Is the logbook itself, where all the registers are stored ordered by date. A searching tool allows checking all the flight logs entered in a specific date.
-- Statistics: In this spreadsheet the pilot can check the total flight and simulation hours for different categories.
+- Statistics: In this spreadsheet the pilot can check the total flight and simulation hours carried out for different categories.
 
 # Categories
+
 | Flight Type | Description
 |-------------|---------------|
 | LCI | Firefighting |
@@ -29,7 +30,6 @@ The Logbook is divided in three spreadsheets: Register, Logbook and Statistics
 |-------------|---------------|
 | Night | Flying at night |
 | IFR | Flying under instrumental rules |
-
 
 | Single pilot | Description
 |-------------|---------------|
